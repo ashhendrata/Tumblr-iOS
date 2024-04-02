@@ -24,7 +24,10 @@ The following **additional** features are implemented:
 
 
 
-https://github.com/ashhendrata/Tumblr-iOS/assets/134671782/27d8126c-9fd5-454c-91a0-c6786dfc13f4
+
+https://github.com/ashhendrata/Tumblr-iOS/assets/134671782/b093f79c-61f7-47b0-b8e6-db979c2f5ba2
+
+
 
 
 
